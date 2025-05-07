@@ -18,7 +18,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter basename="/teaDay">
+      <BrowserRouter basename="/IIMB_teaday">
         <div className="flex flex-col min-h-screen">
           <Navbar />
           <main className="flex-grow">
