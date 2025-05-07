@@ -6,7 +6,7 @@ A modern, elegant cafe and beverage website built with **React**, **TypeScript**
 
 ## 🔗 Live Demo
 
-🌐 [https://kirti6218.github.io/teaDay](https://kirti6218.github.io/teaDay)
+🌐 [https://kirti6218.github.io/IIMB_teaday/](https://kirti6218.github.io/IIMB_teaday/)
 
 ---
 
