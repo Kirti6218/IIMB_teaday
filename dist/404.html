@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Redirecting...</title>
+    <script>
+      const path = location.pathname.replace(/^\/teaDay/, "");
+      sessionStorage.redirect = path || "/";
+      location.href = "/teaDay/";
+    </script>
+  </head>
+  <body></body>
+</html>
