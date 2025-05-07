@@ -39,8 +39,8 @@ A modern, elegant cafe and beverage website built with **React**, **TypeScript**
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/Kirti6218/teaDay.git
-cd teaDay
+git clone https://github.com/Kirti6218/IIMB_teaday.git
+cd IIMB_teaday
 ```
 
 ### 2. Install dependencies
@@ -76,9 +76,8 @@ git commit -m "Your message"
 git push origin main
 ```
 
-GitHub Actions will publish to the `gh-pages` branch and host at:
 
-📍 https://kirti6218.github.io/teaDay/
+
 
 ---
 
