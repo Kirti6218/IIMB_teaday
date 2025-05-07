@@ -4,37 +4,37 @@ A modern, elegant cafe and beverage website built with **React**, **TypeScript**
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 
 🌐 [https://kirti6218.github.io/IIMB_teaday/](https://kirti6218.github.io/IIMB_teaday/)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 🔧 Core Stack
+### Core Stack
 - **React** – UI framework
 - **TypeScript** – Static typing for safer JS
 - **Vite** – Super-fast bundler and dev server
 - **React Router DOM** – Single-page routing
 
-### 💅 UI & Styling
+### UI & Styling
 - **Tailwind CSS** – Utility-first CSS framework
 - **shadcn/ui** – Accessible component primitives
 - **Lucide React** – Icon system
 - **Sonner** & **Custom Toaster** – Toast notifications
 
-### 🔄 Data & State
+### Data & State
 - **TanStack React Query** – Data fetching & caching
 
-### 🚀 Build & Deploy
+### Build & Deploy
 - **GitHub Actions** – CI/CD pipeline for auto-deploy
 - **GitHub Pages** – Free static hosting
 - **vite.config.ts** with `base: "/teaDay/"` for Pages support
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
 ### 1. Clone this repo
 
@@ -63,11 +63,11 @@ npm run build
 
 ---
 
-## 📤 Deployment
+## Deployment
 
 This site is automatically deployed via **GitHub Actions** on each push to the `main` branch.
 
-### 🛠 To Deploy Manually (if needed):
+### To Deploy Manually (if needed):
 
 ```bash
 npm run build
@@ -81,7 +81,7 @@ git push origin main
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 teaDay/
@@ -100,7 +100,7 @@ teaDay/
 
 ---
 
-## 💬 Feedback
+## Feedback
 
 If you'd like to contribute, open an issue or fork and create a pull request. This is a great template for any cafe, food truck, or beverage website!
 
